@@ -20,15 +20,6 @@ By contributing to this repository, you will learn:
 
 ---
 
-📘 Contribution Guide
-
-Guide Link: [Add Guide Link Here]
-
-🎥 Step-by-Step Contribution Video:
-[Add Video Link Here]
-
----
-
 💻 Repository Workflow
 
 1. Fork this repository
